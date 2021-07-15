@@ -1,0 +1,25 @@
+{
+    "name": "kalata/tricks",
+    "description": "Cash Withdraw fees generator",
+    "authors": [
+        {
+            "name": "Kaloyan Hrsitov",
+            "email": "kalata0508@gmail.com"
+        }
+    ],
+    "repositories":[
+        {
+            "type":"package",
+            "package":{
+                "name":"kalata/tricks/cash-withdraw",
+                "version":"master",
+                "source":{
+                    "url":"git://github.com/xxxxxxxxx2q/",
+                    "type":"git",
+                    "reference":"master"
+                }
+            }
+        }
+    ],    
+    "require": {}
+}
