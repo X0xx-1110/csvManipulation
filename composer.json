@@ -14,7 +14,7 @@
                 "name":"kalata/tricks/cash-withdraw",
                 "version":"master",
                 "source":{
-                    "url":"git://github.com/xxxxxxxxx2q/",
+                    "url":"https://github.com/X0xx-1110/csvManipulation.git",
                     "type":"git",
                     "reference":"master"
                 }
